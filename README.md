@@ -1,8 +1,8 @@
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
+
 <div align="center">
   <img src="URL_DE_TU_IMAGEN_AQUI" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
 </div>
-
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
 
 <div align="center">
 
