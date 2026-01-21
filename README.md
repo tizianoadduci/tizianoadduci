@@ -1,16 +1,59 @@
-## Hi there 👋
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
+![Tiziano Vidal](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
 
-<!--
-**tizianoadduci/tizianoadduci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Tiziano%20Vidal-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-linkedin/)](https://www.linkedin.com/in/tu-linkedin/) 
+[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/tu-usuario) 
+[![Twitter Badge](http://img.shields.io/badge/-@tuusuario-1ca0f1?style=social&logo=twitter&logoColor=white&link=https://twitter.com/tuusuario)](https://twitter.com/tuusuario)
+[![Instagram Badge](https://img.shields.io/badge/-@tuusuario-purple?style=social&logo=Instagram&link=https://www.instagram.com/tuusuario/)](https://www.instagram.com/tuusuario/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tu-usuario.visitor-badge)](https://github.com/tu-usuario)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tu-usuario)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am an **Advanced Systems Engineering student** focused on **Front-End Development**.  
+I love building **clean, functional, and futuristic interfaces** with modern web technologies.
+
+- 🚀 Real-world experience in **web development & QA**  
+- ⚡ Comfortable working in **Agile teams**  
+- 🌐 Fluent in **English** for international projects  
+- 🔧 Currently diving deeper into **JavaScript, APIs, and modern web tools**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Demo |
+|---------|-------------|------|
+| **MyPortfolio** | Personal portfolio with animations & responsive design | [View](#) |
+| **WeatherApp** | JS app consuming weather API | [View](#) |
+| **TaskManager** | Vanilla JS CRUD app for tasks | [View](#) |
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:tu.email@dominio.com">✉️ Email</a> | 
+  <a href="https://linkedin.com/in/tu-linkedin">🔗 LinkedIn</a> | 
+  <a href="https://github.com/tu-usuario">🐱 GitHub</a>
+</p>
+
+
