@@ -51,9 +51,8 @@ I love building **clean, functional, and futuristic interfaces** with modern web
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| **MyPortfolio** | Personal portfolio with animations & responsive design | [View](#) |
-| **WeatherApp** | JS app consuming weather API | [View](#) |
-| **TaskManager** | Vanilla JS CRUD app for tasks | [View](#) |
+| **Nutricionist-Web** | Nutricionist-website,HTML,CSS,JS | [View](#https://tizianoadduci.github.io/Nutritionist-Website/index.html#inicio) |
+| **Barber-Web** | Barber-Website, HTML,CSS,JS | [View](#https://tizianoadduci.github.io/Local-Barber-Shop-Website-Bruce-Barber-/) |
 
 ---
 
