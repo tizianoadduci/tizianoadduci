@@ -15,6 +15,14 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tizianoadduci&show_icons=true&theme=tokyonight&count_private=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&bg_color=0a0a0a" alt="Tiziano's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizianoadduci&layout=compact&theme=tokyonight&title_color=00d4ff&text_color=ffffff&bg_color=0a0a0a" alt="Most Used Languages" height="180px" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I am an **Advanced Systems Engineering student** focused on **Front-End Development**.  
