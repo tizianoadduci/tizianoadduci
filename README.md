@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
+</div>
+
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
-![Tiziano Vidal](https://github.com/tiziano/tiziano/blob/master/assets/name.gif)
 
 <div align="center">
 
@@ -19,9 +22,7 @@
 I am an **Advanced Systems Engineering student** focused on **Front-End Development**.  
 I love building **clean, functional, and futuristic interfaces** with modern web technologies.
 
-- 🚀 Real-world experience in **web development & QA**  
-- ⚡ Comfortable working in **Agile teams**  
-- 🌐 Fluent in **English** for international projects  
+- 🚀 Real-world experience in **web development & QA** - ⚡ Comfortable working in **Agile teams** - 🌐 Fluent in **English** for international projects  
 - 🔧 Currently diving deeper into **JavaScript, APIs, and modern web tools**
 
 ---
@@ -51,9 +52,9 @@ I love building **clean, functional, and futuristic interfaces** with modern web
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:tu.email@dominio.com">✉️ Email</a> | 
-  <a href="https://linkedin.com/in/tu-linkedin">🔗 LinkedIn</a> | 
-  <a href="https://github.com/tu-usuario">🐱 GitHub</a>
+  <a href="adduci.tiziano@gmail.com">✉️ Email</a> | 
+  <a href="https://www.linkedin.com/in/tiziano-vidal-adduci-445776273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">🔗 LinkedIn</a> | 
+  <a href="https://github.com/tizianoadduci">🐱 GitHub</a>
 </p>
 
 
