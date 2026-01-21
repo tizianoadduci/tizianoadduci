@@ -1,25 +1,17 @@
+### Hi there <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tizianoadduci/tizianoadduci/89a8c1a9fe2832bf7ddd5d94a85685d06abd0127/PortadaRepoTTVD.png" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
 
   <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiziano%20Vidal-blue?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tiziano-vidal-adduci-445776273/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Tiziano%20Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiziano-vidal-adduci-445776273/)
 [![GitHub followers](https://img.shields.io/github/followers/tizianoadducci?label=Follow&style=social&logo=github)](https://github.com/tizianoadducci) 
 [![Instagram Badge](https://img.shields.io/badge/-@tiziano_adduci-purple?style=social&logo=instagram)](https://www.instagram.com/tiziano_adduci/)
 [![Visitors](https://komarev.com/ghpvc/?username=tizianoadducci&color=blue&style=flat-square)](https://github.com/tizianoadducci)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tizianoadducci)
 
 </div>
-
-### Hi there <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tizianoadduci&show_icons=true&theme=tokyonight&count_private=true" alt="Tiziano's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizianoadduci&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Most Used Languages" height="180px" />
-</p>
 
 ---
 
