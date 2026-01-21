@@ -51,8 +51,8 @@ I love building **clean, functional, and futuristic interfaces** with modern web
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| **Nutricionist-Web** | Nutricionist-website,HTML,CSS,JS | [View](#https://tizianoadduci.github.io/Nutritionist-Website/index.html#inicio) |
-| **Barber-Web** | Barber-Website, HTML,CSS,JS | [View](#https://tizianoadduci.github.io/Local-Barber-Shop-Website-Bruce-Barber-/) |
+| **Nutricionist-Web** | Nutricionist-website,HTML,CSS,JS | [View](https://tizianoadduci.github.io/Nutritionist-Website/index.html#inicio) |
+| **Barber-Web** | Barber-Website, HTML,CSS,JS | [View](https://tizianoadduci.github.io/Local-Barber-Shop-Website-Bruce-Barber-/) |
 
 ---
 
