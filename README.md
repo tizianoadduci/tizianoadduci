@@ -6,7 +6,7 @@
   <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Tiziano%20Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiziano-vidal-adduci-445776273/)
-[![GitHub followers](https://img.shields.io/github/followers/tizianoadducci?label=Follow&style=social&logo=github)](https://github.com/tizianoadducci) 
+[![GitHub followers](https://img.shields.io/github/followers/tizianoadduci?label=Follow&style=social&logo=github)](https://github.com/tizianoadduci) 
 [![Instagram Badge](https://img.shields.io/badge/-@tiziano_adduci-purple?style=social&logo=instagram)](https://www.instagram.com/tiziano_adduci/)
 [![Visitors](https://komarev.com/ghpvc/?username=tizianoadducci&color=blue&style=flat-square)](https://github.com/tizianoadducci)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tizianoadducci)
