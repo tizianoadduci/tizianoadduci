@@ -1,8 +1,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tizianoadduci/tizianoadduci/89a8c1a9fe2832bf7ddd5d94a85685d06abd0127/PortadaRepoTTVD.png
-" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
+  <img src="https://raw.githubusercontent.com/tizianoadduci/tizianoadduci/89a8c1a9fe2832bf7ddd5d94a85685d06abd0127/PortadaRepoTTVD.png" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
 
   
 [![Linkedin Badge](https://img.shields.io/badge/-Tiziano%20Vidal-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-linkedin/)](https://www.linkedin.com/in/tu-linkedin/) 
