@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/tizianoadduci/tizianoadduci/89a8c1a9fe2832bf7ddd5d94a85685d06abd0127/PortadaRepoTTVD.png" alt="Tiziano Thomas Vidal Adducci Header" width="100%">
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Tiziano%20Vidal-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiziano-vidal-adduci-445776273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/tiziano-vidal-adduci-445776273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiziano%20Vidal-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiziano-vidal-adduci-445776273/)
 [![GitHub followers](https://img.shields.io/github/followers/tizianoadduci?label=Follow&style=social)](https://github.com/tizianoadduci) 
 [![Instagram Badge](https://img.shields.io/badge/-@tiziano_adduci-purple?style=social&logo=Instagram&link=https://www.instagram.com/tiziano_adduci/)](https://www.instagram.com/tiziano_adduci/)
 [![Visitors](https://komarev.com/ghpvc/?username=tizianoadducci&color=blue&style=flat-square)](https://github.com/tizianoadducci)
