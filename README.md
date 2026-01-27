@@ -53,7 +53,7 @@ I love building **clean, functional, and futuristic interfaces** with modern web
 |---------|-------------|------|
 | **Nutricionist-Web** | Nutricionist-website, HTML, CSS, JS | [View](https://tizianoadduci.github.io/Nutritionist-Website/index.html#inicio) |
 | **Barber-Web** | Barber-Website for a local barber shop, HTML, CSS, JS | [View](https://tizianoadduci.github.io/Local-Barber-Shop-Website-Bruce-Barber-/) |
-
+| **Appartment-Web** | Appartment Rental, HTML, CSS, JS | [View](https://tizianoadduci.github.io/DeptoMarDelPlata/) |
 ---
 
 ## 📫 Contact Me
